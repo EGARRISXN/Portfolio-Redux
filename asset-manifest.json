@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PortfolioRedux/static/css/main.2728f83a.css",
-    "main.js": "/PortfolioRedux/static/js/main.c975d123.js",
-    "static/media/eventease.png": "/PortfolioRedux/static/media/eventease.c1d063b7ac140b728265.png",
-    "static/media/myphoto.png": "/PortfolioRedux/static/media/myphoto.d493b9575507d839178f.png",
-    "static/media/playeronereads.png": "/PortfolioRedux/static/media/playeronereads.2b6b73e829d17cfa175f.png",
-    "static/media/RESUME2023.pdf": "/PortfolioRedux/static/media/RESUME2023.795c88b20929d842d227.pdf",
-    "static/media/EG.png": "/PortfolioRedux/static/media/EG.37c3d680178e8f81d8fb.png",
-    "index.html": "/PortfolioRedux/index.html",
-    "main.2728f83a.css.map": "/PortfolioRedux/static/css/main.2728f83a.css.map",
-    "main.c975d123.js.map": "/PortfolioRedux/static/js/main.c975d123.js.map"
+    "main.css": "/Portfolio-Redux/static/css/main.2728f83a.css",
+    "main.js": "/Portfolio-Redux/static/js/main.ac3f2a01.js",
+    "static/media/eventease.png": "/Portfolio-Redux/static/media/eventease.c1d063b7ac140b728265.png",
+    "static/media/myphoto.png": "/Portfolio-Redux/static/media/myphoto.d493b9575507d839178f.png",
+    "static/media/playeronereads.png": "/Portfolio-Redux/static/media/playeronereads.2b6b73e829d17cfa175f.png",
+    "static/media/RESUME2023.pdf": "/Portfolio-Redux/static/media/RESUME2023.795c88b20929d842d227.pdf",
+    "static/media/EG.png": "/Portfolio-Redux/static/media/EG.37c3d680178e8f81d8fb.png",
+    "index.html": "/Portfolio-Redux/index.html",
+    "main.2728f83a.css.map": "/Portfolio-Redux/static/css/main.2728f83a.css.map",
+    "main.ac3f2a01.js.map": "/Portfolio-Redux/static/js/main.ac3f2a01.js.map"
   },
   "entrypoints": [
     "static/css/main.2728f83a.css",
-    "static/js/main.c975d123.js"
+    "static/js/main.ac3f2a01.js"
   ]
 }
