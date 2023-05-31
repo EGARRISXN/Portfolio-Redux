@@ -1,6 +1,6 @@
 # Portfolio-Redux
 
-Click here for the [App](https://egarrisxn.github.io/Portfolio-Redux/) or the repository through [Github](https://github.com/EGARRISXN/Portfolio-Redux) !
+Click here for the [Application](https://egarrisxn.github.io/Portfolio-Redux/)!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
